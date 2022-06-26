@@ -1,0 +1,13 @@
+.footer-container {
+  background-color: #cbd5e1;
+  padding: 16px 0;
+  display: flex;
+  justify-content: center;
+  color: #475569;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .footer-container {
+    padding: 26px 0;
+  }
+}

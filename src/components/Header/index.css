@@ -1,0 +1,13 @@
+.header-container {
+  background-color: #cbd5e1;
+  padding: 16px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #475569;
+}
+@media (min-width: 768px) {
+  .header-container {
+    padding: 26px 0;
+  }
+}
